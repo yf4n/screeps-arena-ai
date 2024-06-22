@@ -1,0 +1,14 @@
+{
+  "name": "screeps-arena-ai",
+  "version": "1.0.0",
+  "description": "my screeps arena ai",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/screeps-arena": "^1.0.0"
+  }
+}
